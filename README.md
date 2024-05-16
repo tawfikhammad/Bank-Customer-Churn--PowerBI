@@ -1,5 +1,7 @@
 # The observations
 
+<img src="/images/Screenshot%202024-05-16%20144630.png" alt="dashboard">
+
 ### Overview of the data
 
 📍 **Customer Demographics**
